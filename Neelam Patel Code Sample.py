@@ -12,7 +12,7 @@ from io import BytesIO
 import statsmodels.formula.api as smf
 from functools import reduce
 
-path = r'/Users/neelampatel/Documents/GitHub/final-project-neelam-patel'
+path = r'/Users/neelampatel/Documents/GitHub/broadband_access'
 
 # Source:https://stackoverflow.com/questions/28144529/how-to-check-if-file-already-exists-if-not-download-on-python
 
